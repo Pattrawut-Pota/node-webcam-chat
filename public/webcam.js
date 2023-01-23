@@ -1,3 +1,4 @@
+// สร้างตัวแปลมาเก็บค่าที่จะใช้งานหรือเรียกใช้งาน
 const socket = io("/");
 const videoGrid = document.getElementById("video-grid"); 
 const myVideo = document.createElement("video");
